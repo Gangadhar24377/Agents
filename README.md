@@ -34,6 +34,7 @@ This repository contains several AI agents designed to automate various tasks ac
    ```bash
    pip install -r requirements.txt
    ```
+   install anyother packages if needed.
    
 3. Run the desired Script:
    -for example:
