@@ -27,7 +27,7 @@ This repository contains several AI agents designed to automate various tasks ac
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/AI-Agents-Framework.git
-   cd AI-Agents-Framework
+   cd Agents
    ```
 
 2. Install the required dependencies:
