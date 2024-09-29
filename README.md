@@ -1,28 +1,42 @@
-***AI Agents Framework***
+# AI Agents Framework
 
-This repository contains several AI agents designed to automate various tasks across different domains. These agents are built to make processes more efficient and provide intelligent solutions for specific use cases.
+This repository contains several AI agents designed to automate various tasks across different domains. These agents streamline processes and provide intelligent solutions for specific use cases.
 
-***Agents in this Repository***
--Customer Outreach Campaign Agent (`customer_outreach_campaign.py`)
+## Agents in this Repository
 
-Automates the process of creating and managing customer outreach campaigns.
+1. **Customer Outreach Campaign Agent** (`customer_outreach_campaign.py`)
+   - Automates the process of creating and managing customer outreach campaigns.
 
--Customer Support Automation Agent (`customer-support_automation.py`)
+2. **Customer Support Automation Agent** (`customer-support_automation.py`)
+   - Automates customer support tasks such as handling common queries and ticket management.
 
-Assists with automating customer support tasks, including handling common queries and ticket generation.
+3. **Event Planning Agent** (`event_planning.py`)
+   - Helps in planning and organizing events by automating scheduling, invitations, and logistics.
 
--Event Planning Agent (`event_planning.py`)
+4. **Financial Analysis Agent** (`financial_analysis.py`)
+   - Conducts basic financial analysis like evaluating budgets, forecasting, and reporting.
 
-Helps in planning and organizing events by automating scheduling, sending invites, and managing logistics.
+5. **Job Applications Agent** (`job_applications.py`)
+   - Automates job application processes, including resume submission and status tracking.
 
--Financial Analysis Agent (`financial_analysis.py`)
+6. **Research Article Agent** (`research_article.py`)
+   - Assists in researching, summarizing, and analyzing academic or professional articles.
 
-Performs basic financial analysis tasks such as evaluating budgets, forecasting, and reporting.
+## How to Use
 
--Job Applications Agent (`job_applications.py`)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/AI-Agents-Framework.git
+   cd AI-Agents-Framework
+   ```
 
-Automates job application processes, including resume submissions and tracking application statuses.
-
--Research Article Agent (`research_article.py`)
-
-Assists in researching, summarizing, and analyzing academic or professional articles.
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+3. Run the desired Script:
+   -for example:
+   ```bash
+   python research_article.py
+   ```
